@@ -1,0 +1,182 @@
+Hui - Meeting
+Marae - The area for formal discourse in front of a meeting house
+Tangihanga - Funeral ceremony
+Karanga - The ceremony of calling to the guests to welcome them onto the marae
+Manuhiri - Guests
+Haere mai - Welcome
+Tangata whenua - Original people belonging to a place
+Haka - Chant with dance for the purpose of challenge
+Waiata - Song or chant which follows a speech
+Karakia - Prayer
+Koha - Gift
+Whare nui - Meeting house
+Whare kai - Dining hall
+Aroha - Compassion
+Mana - Authority
+Manaakitanga - Respect for hosts or kindness to guests
+Tapu - Sacred
+Tiaki - To care for
+Taonga - Treasured possession or cultural item
+Whakapapa - Genealogy
+Whenua - Land
+Hapū - Clan
+Iwi - Tribe
+Kaumātua - Elder(s)
+Rangatira - Person of chiefly rank
+Tama - Son
+Tamāhine - Daughter
+Tamaiti - One child
+Tamariki - Children
+Teina - Junior relative
+Tuakana - Senior relative
+Tipuna - Ancestor
+Wahine - Woman
+Waka - Canoe
+Whānau - Extended or non-nuclear family
+Whanaunga - Kin
+Awa - River
+Manga - Stream
+Repo - Swamp
+Tomo - Cave
+Ngahere - Forest
+Arawhata - Bridge
+Koraha - Desert
+Awa-awa - Valley
+Pari - Cliff
+Wai-hīrere - Waterfall
+Pae - Ridge
+Mānia - Plain
+Maunga - Mountain
+Moana - Sea
+Motu - Island
+Puke - Hill
+Roto - Lake
+Wai - Water
+Waipuke - Flood
+Whakahukapapa - Freeze
+Mākūkū - Damp
+Hukapapa - Frost
+Pāhekeheke - Slippery
+Hukarere - Sleet
+Āniwaniwa - Rainbow
+Makariri - Cold
+Whanga - Harbour
+Kia ora - Hi
+Mōrena - Good morning
+Pōmarie - Goodnight
+Tēnā koe - Formal greeting to one person
+Tēnā koutou - Formal greeting to many people
+Arero - Tongue
+Ihu - Nose
+Kakī - Neck
+Kauae - Chin
+Makawe - Hair
+Manawa - Heart
+Niho - Teeth
+Puku - Belly
+Turi - Knee
+Ringa - Hand
+Waewae - Feet
+Taringa - Ear
+Upoko - Head
+Whatu - Eye
+Matariki - Beginning of Māori new year
+Tau-hou - New year
+Kirihimete - Christmas
+Hararei - Holiday
+Whakanui - Celebrate
+Hākari - Feast
+Mane - Monday
+Tūrei - Tuesday
+Wenerei - Wednesday
+Taite - Thursday
+Paraire - Friday
+Rāhoroi - Saturday
+Rātapu - Sunday
+Kohitātea - January
+Hui-tanguru - February
+Poutū-te-rangi - March
+Paenga-Whāwhā - April
+Haratua - May
+Pipiri - June
+Hōngongoi - July
+Hereturi-kōkā - August
+Mahuru - September
+Whiringa-ā-nuku - October
+Whiringa-ā-rangi - November
+Hakihea - December
+Raumati - Summer
+Ngahuru - Autumn
+Takurua - Winter
+Kōanga - Spring
+Taone-nui - City
+Huarahi - Road
+Tahi - One
+Rua - Two
+Toru - Three
+Whā - Four
+Rima - Five
+Ono - Six
+Whitu - Seven
+Waru - Eight
+Iwa - Nine
+Tekau - Ten
+Kotahi rau - Hundred
+Kotahi mano - Thousand
+Whutupōro - Rugby
+Rīki - Rugby league
+Hau paoro - Golf
+Whana poikiri - Soccer
+Neti pōro - Netball
+Hōki - Hockey
+Pahiketepōro - Basketball
+Kai - Food
+Inu - Drink
+Rīwai - Potatoes
+Mīti - Meat
+Heihei - Chicken
+Ika - Fish
+Tōhi - Toast
+Tōtiti - Sausage
+Miraka - Milk
+Kirīmi - Cream
+Huka - Sugar
+Tiamu - Jam
+Pata - Butter
+Tīhi - Cheese
+Āporo - Apple
+Ārani - Orange
+Panana - Banana
+Pea - Pear
+Kapu - Cup
+Karaehe - Glass
+Naihi - Knife
+Pune - Spoon
+Pereti - Plate
+Pouaka hukapapa - Refrigerator
+Umu - Stove
+Hiakai - Hungry
+Hiainu - Thirsty
+Poutāpeta - Post office
+Toa hokomaha - Supermarket
+Pēke - Bank
+Wharemīti - Butcher
+Kēmihi - Chemist
+Wharepukapuka - Library
+Ararewa - Lift
+Tari - Office
+Whare kīhini - Kitchen
+Pahi - Bus
+Tereina - Train
+Teihana - Station
+Motuka - Car
+Paihikara - Bicycle
+Taraka - Truck
+Tarakihana - Tractor
+Waka noho - Caravan
+Waka-rererangi - Aeroplane
+Rorohiko - Computer
+Pouaka whakaata - Television
+Kiriata - Cinema
+Tiakarete - Chocolate
+Waea - Telephone
